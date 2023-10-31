@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "oyo"
 
-title = "BUILDING MODERNIZATION APPLICATION WITH SECURITY EMBEDDED - DEVSECOPS"
+title = "Vision One for Cloud: Containers"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= "false"
@@ -15,9 +15,9 @@ enableEmoji = true
   # See the config.toml file from this documentation site to have an example.
   #editURL = ""
   # Author of the site, will be used in meta information
-  author = "Justin Perkins, Yan Pinheiro, and Fernando Cardoso @ Trend Micro"
+  author = "Justin Perkins @ Trend Micro"
   # Description of the site, will be used in meta information
-  description = "Learn how to leverage Trend Micro Cloud One - Application Security with your serverless applications running on AWS Lambda or containerized applications running on AWS Fargate. If you looking to make cloud security more efficient, proactive, and gain visibility to help lead your developers, cloud architects, and DevOps engineers, this workshop is for you! Bridge the gap between your security and development teams by providing relevant information to gain better visibility into attacks targeting your cloud native applications, and take security action."
+  description = "Learn how to leverage Trend Micro Vision One Security for Cloud."
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = true
   # Disable search function. It will hide search bar
@@ -45,34 +45,10 @@ enableEmoji = true
 home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-tools'></i> AWS Builders Library"
-url = "https://aws.amazon.com/builders-library/"
-weight = 11
-
-[[menu.shortcuts]]
-name = "<i class='far fa-lightbulb'></i> Modernization with AWS"
-url = "https://aws.amazon.com/blogs/modernizing-with-aws/"
-weight = 20
-
-[[menu.shortcuts]]
-name = "<i class='fas fa-user-cog'></i> Trend Micro - Cloud One Trial"
-url = "https://cloudone.trendmicro.com/SignUp.screen#"
+name = "<i class='fas fa-user-cog'></i> Trend Vision One Trial"
+url = "https://resources.trendmicro.com/vision-one-trial.html"
 weight = 21
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-user-check'></i> AWS Marketplace"
-url = "https://aws.amazon.com/marketplace/pp/Trend-Micro-Trend-Micro-Cloud-One/B01LXMNGHB"
-weight = 22
-
-[[menu.shortcuts]]
-name = "<i class='fas fa-user-graduate'></i> DevOps Resource Center"
-url = "https://www.trendmicro.com/en_us/devops.html"
-weight = 23
-
-[[menu.shortcuts]]
-name = "<i class='fas fa-chalkboard-teacher'></i> Youtube - Application Security"
-url = "https://www.youtube.com/watch?v=s1QPNvVkIDs"
-weight = 24
 
 [markup]
   defaultMarkdownHandler = "goldmark"

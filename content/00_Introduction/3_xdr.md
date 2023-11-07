@@ -9,6 +9,7 @@ pre: "<b>1.4 </b>"
 
 Stop adversaries faster with a broader perspective and better context to hunt, detect, investigate, and respond to threats from a single platform
 
+![XDR](/images/Trend/xdr1.jpg)
 
 ---
 

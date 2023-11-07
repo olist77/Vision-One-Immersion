@@ -24,33 +24,36 @@ You've been hired by Dunder Mifflin, a fictional paper company, to improve the s
 
 ## Scenario Phases
 
-### Phase 1: Initial Assessment
+### Phase 1: Attack Surface Risk Mangement for Cloud: Assesment for Risk, Compliance and Best Practices
 - Participants start with an assessment of the current security posture of Dunder Mifflin's AWS environment.
 - Identify vulnerabilities and potential threats.
-- Prioritize Risk.
+- Review and update AWS misconfiguration findings for compliance.
+- Ensure adherence to AWS Well-Architected Framework.
+- Prioritize Risk
 
-### Phase 2: Secure the Environment
-- Implement security groups, NACLs, and IAM policies.
-- Encrypt data at rest and in transit.
-- Set up VPC flow logs and CloudWatch alarms for key metrics.
-- Implement identity and access management best practices.
+### Phase 2: Become the Attacker
+- Container Worklow:
+- Serverless Workflow:
+- Data Upload Workflow:
 
-### Phase 3: Incident Detection and Response
-- Set up CloudTrail and Event Logs.
+### Phase 3: XDR: Incident Detection and Response
+- CloudTrail and Event Logs Insights.
 - Assign models and respond to simulated security incidents.
 - Develop an incident response plan.
 
-### Phase 4: Compliance and Best Practices
-- Review and update AWS misconfiguration findings for compliance.
-- Ensure adherence to AWS Well-Architected Framework.
-- Discuss security best practices specific to the paper industry.
+### Phase 4: Cloud Protection
+- Implement Policy based Security Measures at network, host and container.
+- Malware Validation of data objects. 
 
+### Phase 5: Shift Left: CICD Pipeline Security
+- Ensure Security adherence and feedback loop in CICD Pipeline
 
 ## Key Takeaways
 
-- The importance of proactively securing cloud infrastructure.
-- Practical experience in implementing AWS security best practices.
-- The ability to detect and respond to security incidents.
-- Awareness of compliance and industry-specific security considerations.
+- The importance of proactively securing cloud infrastructure and container images.
+- Practical experience in implementing security best practices.
+- Hybrid Cloud Visibility
+- The ability to detect and respond to cloud security incidents.
+- Layered Security implementation of various workload types.
 
 
